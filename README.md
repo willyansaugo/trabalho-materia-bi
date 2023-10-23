@@ -8,7 +8,6 @@ Dentro do diretório ./ estão localizados os arquivos:
 - `dw-bi.sql`: Este script cria o banco de dados `DW-BI` após ETL, com as tabelas necessárias, como Clientes, Filmes, Pagamento e Tempo de Locação, e os dados relacionadas a tabela.
 - `Dockerfile`: Este arquivo parametriza a criação do container no Docker Desktop.
 - `Matriz Dimensão X Indicador`: É a tabela que iremos fazer antes de gerar nossos gráficos e dashboards no Power BI.
-- 
 
 No diretório ./DW Star Schema estão localizados os arquivos:
 - `DW-BI`: É o nosso data warehouse depois de ter sido transformados no ETL, ali estão armazenados nossos inserts e selects de todas as tabelas.
