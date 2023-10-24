@@ -1,6 +1,6 @@
 # Banco de Dados de Locação
 
-Este repositório é um trabalho da matéria de BI (Business Intelligence) contém um script SQL para criar um banco de dados que armazena informações sobre uma locadora e seus clientes. O banco de dados é projetado para permitir o armazenamento de detalhes sobre locadora de filmes.
+Este repositório é um trabalho da matéria de BI (Business Intelligence) que contém um script SQL para criar um banco de dados que armazena informações sobre uma locadora e seus clientes. O banco de dados é projetado para permitir o armazenamento de uma locadora de filmes.
 
 ## Arquivos SQL
 Dentro do diretório ./ estão localizados os arquivos:
@@ -22,3 +22,5 @@ No diretório ./Fonte de Dados BD estão localizados os arquivos:
 
 mysql:8.0.16
 Docker Desktop
+Pentaho
+Visual Studio Code
