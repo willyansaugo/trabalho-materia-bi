@@ -13,14 +13,14 @@ No diretório ./DW Star Schema estão localizados os arquivos:
 - `DW-BI`: É o nosso data warehouse depois de ter sido transformados no ETL, ali estão armazenados nossos inserts e selects de todas as tabelas.
 
 No diretório ./ETL estão localizados os arquivos:
-- Ali está localizado nossas transformações de cada tabela pelo ETL, além disso, temos a tabela fato gerada e o Job (erado por 24hrs).
+- Ali está localizado nossas transformações de cada tabela pelo ETL, além disso, temos gerado a tabela fato e o Job (gerado por 24hrs).
 
 No diretório ./Fonte de Dados BD estão localizados os arquivos:
 - Ali está localizado nossas fontes de dados que foram usadas durante as transformações do ETL.
 
 ## Uso
 
-mysql:8.0.16
-Docker Desktop
-Pentaho
-Visual Studio Code
+- mysql:8.0.16
+-Docker Desktop
+- Pentaho
+- Visual Studio Code
